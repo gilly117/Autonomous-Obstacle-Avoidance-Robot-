@@ -1,4 +1,4 @@
-# Autonomous-Obstacle-Avoidance-Robot-
+# Autonomous Robot
 The Autonomous Obstacle-Avoidance Robot is a custom-built robotic system engineered to navigate autonomously within a designated space while circumventing obstacles encountered along its path
 It employs a Raspberry Pi microcontroller as its central processing unit, programmed to execute sensor data processing and control the robot's movements in real-time. By integrating sensors such as ultrasonic or infrared proximity sensors, the robot can detect obstacles in its vicinity and adjust its trajectory accordingly to evade collisions.
 
