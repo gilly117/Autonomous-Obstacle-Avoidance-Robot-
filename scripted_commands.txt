@@ -1,0 +1,12 @@
+Forward,1,1,1
+Stop,0,0,0.5
+SpinLeft,0.4,0.4,1
+Stop,0,0,0.5
+Back,1,1,0.5
+SpinRight,0.4,0.4,1
+Stop,0,0,0.5
+Back,1,1,1
+SpinLeft,0.4,0.4,1
+Stop,0,0,0.5
+Forward,1,1,0.5
+SpinLeft,0.4,0.4,2

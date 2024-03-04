@@ -1,0 +1,8 @@
+Back,1,1,1
+SpinLeft,0.4,0.4,1
+Forward,0.5,0.5,1
+SpinRight,0.4,0.4,1
+Forward,0.5,0.5,1
+SpinRight,0.4,0.4,1
+Forward,0.5,0.5,1
+SpinLeft,0.4,0.4,1
